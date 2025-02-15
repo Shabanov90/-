@@ -4,7 +4,7 @@ import "bufio"
 import "fmt"
 import "os"
 import "strconv"
-import "strings"
+import "strings" 
 
 
 func arabicToRoman(num int) string { // преобразование арабских чисел в римские
